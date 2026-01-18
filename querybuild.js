@@ -14,7 +14,7 @@ export default function buildEnhancedQuery(brand, categories = ['support', 'chur
     const logicString = `(${selectedKeywords.join(' OR ')})`;
 
     // Base query
-    let query = `${brandTerm} ${logicString} -is:retweet lang:en`;
+    let query = `${brandTerm} ${logicString} -is:retweet -filter:replies lang:en`;
 
     // Append sinceDate if provided
     if (sinceDate) {
@@ -28,6 +28,6 @@ export default function buildEnhancedQuery(brand, categories = ['support', 'chur
     }
 
     return query;
-}
-
+} 
+ 
  
