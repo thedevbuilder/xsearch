@@ -3,14 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
-  "author": "module",
+  "author": "",
   "type": "module",
-  "main": "xsearch.js",
+  "main": "index.js",
   "scripts": {
-    "test": ""
+    "start": "node --experimental-specifier-resolution=node lookUp.js"
   },
   "devDependencies": {
+    "@neondatabase/serverless": "^1.0.2",
+    "@types/node": "^25.0.9",
     "@xenova/transformers": "^2.17.2",
-    "desearch-js": "^1.0.9"
+    "desearch-js": "^1.0.9",
+    "drizzle-kit": "^0.31.8",
+    "nanoid": "^5.1.6",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.45.1"
   }
 }

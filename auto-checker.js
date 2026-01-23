@@ -1,27 +1,36 @@
 import { configDotenv } from "dotenv";
-import extractHandle from "./extractHandle.js";
-configDotenv();
+  configDotenv();
  export default  async function isVerifiedUser(companyHandle) {
-    try {
-const response = await fetch(
+  // tracking 3rd party api rate limits and errors 
+  let response;
+   try {
+  response = await fetch(
   "https://api.desearch.ai/twitter/user/posts?username=" + companyHandle,
   {
     method: "GET",
     headers: {
-      "Authorization": process.env.API_KEY,
+      "Authorization": process.env.X_API_KEY,
       "Content-Type": "application/json"
     }
   }
 );
+ if (!response.ok) {  
+    throw new Error(`API request failed with status ${response.status}`);
+  }
 
-//  suspectible to errors if response is not ok
-const data = await response.json();
-const [username,verified,url] = data
-const extractHandle = extractHandle(url);
-return [username,verified,extractHandle]
-// return [username, verified,extractHandle];
 } catch (error) {
-    console.error("Error checking verified company handle:", error);
-    return false;
-}     
+    throw error
+ }
+try{
+    const data = await response.json();
+      if (!data || data.length === 0) {
+        throw new Error("No data found for the given company handle.");
+}
+ return [data.user.name,
+  data.user.is_blue_verified,
+  data.user.username];
+}
+ catch (error) {
+    throw error;
+}  
 }

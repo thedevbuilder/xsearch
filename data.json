@@ -1,0 +1,3083 @@
+[
+  {
+    "user": {
+      "id": "1035996516173996032",
+      "url": "https://x.com/oluyemii_tola",
+      "name": "oluyemi 'tola",
+      "username": "oluyemii_tola",
+      "created_at": "Sat Sep 01 21:03:12 +0000 2018",
+      "description": "",
+      "favourites_count": 7415,
+      "followers_count": 2019,
+      "followings_count": 1280,
+      "listed_count": 2,
+      "media_count": 947,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2006876176048967680/yi8isg_x_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035996516173996032/1767312117",
+      "statuses_count": 64094,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Abuja, Nigeria",
+      "pinned_tweet_ids": [
+        "1239505655767203840"
+      ],
+      "professional": null
+    },
+    "id": "2006346624776462697",
+    "text": "I deleted that Glovo since when they took my order and money and failed to deliver and didn’t refund . Which happened twice. @glovoapp_ng fix up",
+    "reply_count": 0,
+    "view_count": 109,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/oluyemii_tola/status/2006346624776462697",
+    "created_at": "Wed Dec 31 12:48:06 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "2006346624776462697",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            125,
+            137
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "593473016",
+      "url": "https://x.com/KayodeElvis",
+      "name": "Kayode Elvis (Olówó láyé Mọ)",
+      "username": "KayodeElvis",
+      "created_at": "Tue May 29 07:36:25 +0000 2012",
+      "description": "Managing Partner @joinisowo | Ex@Mayhavenhub_. Convener @_beyondife. Ex-COO @Cudium. Founder @Indeego_RL.",
+      "favourites_count": 1983,
+      "followers_count": 778,
+      "followings_count": 926,
+      "listed_count": 2,
+      "media_count": 96,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1965817364521320448/IxitqQ_b_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/593473016/1764032589",
+      "statuses_count": 5295,
+      "verified": false,
+      "is_blue_verified": true,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "x.com/idowukayodeelv…",
+              "expanded_url": "https://x.com/idowukayodeelvis",
+              "url": "https://t.co/3pb2uLH4Pp",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "can_dm": true,
+      "can_media_tag": true,
+      "location": "Nigeria",
+      "pinned_tweet_ids": [],
+      "professional": {
+        "professional_type": "Creator",
+        "category": [
+          {
+            "id": 958,
+            "name": "Entrepreneur"
+          }
+        ]
+      }
+    },
+    "id": "2006177625274831242",
+    "text": "Waited over 30 minutes and @glovoapp_ng didn't confirm payment even after my account was debited...\n\nOver a month now and still no refund...\n\nVery useless product... https://t.co/USitPJ09cN",
+    "reply_count": 0,
+    "view_count": 1346,
+    "retweet_count": 0,
+    "like_count": 3,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/KayodeElvis/status/2006177625274831242",
+    "created_at": "Wed Dec 31 01:36:33 +0000 2025",
+    "media": [
+      {
+        "media_url": "https://pbs.twimg.com/media/G9df6jPWkAAmCtR.jpg",
+        "type": "photo"
+      }
+    ],
+    "is_quote_tweet": true,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "2006177625274831242",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": "2005948278563652023",
+    "quote": {
+      "user": {
+        "id": "1033832755493257217",
+        "url": "https://x.com/AyamDamiee",
+        "name": "I'm Dammy",
+        "username": "AyamDamiee",
+        "created_at": "Sun Aug 26 21:45:11 +0000 2018",
+        "description": "Believer. International Relations. — Brick by brick, every step brings me closer to the skyline.",
+        "favourites_count": 39477,
+        "followers_count": 28383,
+        "followings_count": 9022,
+        "listed_count": 10,
+        "media_count": 1512,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872048285164163073/jrQd9nYg_normal.jpg",
+        "profile_banner_url": null,
+        "statuses_count": 83073,
+        "verified": false,
+        "is_blue_verified": true,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": null
+        },
+        "can_dm": true,
+        "can_media_tag": false,
+        "location": "Lagos, Nigeria",
+        "pinned_tweet_ids": [
+          "1867838423157158234"
+        ],
+        "professional": {
+          "professional_type": "Creator",
+          "category": []
+        }
+      },
+      "id": "2005948278563652023",
+      "text": "Please watch this and be very careful with Glovo if you value your life. https://t.co/a08MvMSngL",
+      "reply_count": 292,
+      "view_count": 791808,
+      "retweet_count": 1963,
+      "like_count": 3215,
+      "quote_count": 371,
+      "bookmark_count": 1617,
+      "url": "https://x.com/AyamDamiee/status/2005948278563652023",
+      "created_at": "Tue Dec 30 10:25:12 +0000 2025",
+      "media": [
+        {
+          "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/2005948146791145472/pu/img/jqG1wFQUaqvp7Pjd.jpg",
+          "type": "video"
+        }
+      ],
+      "is_quote_tweet": true,
+      "is_retweet": false,
+      "lang": "en",
+      "conversation_id": "2005948278563652023",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null,
+      "quoted_status_id": "2005944306901639388",
+      "quote": null,
+      "replies": null,
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/a08MvMSngL",
+            "expanded_url": "https://x.com/AyamDamiee/status/2005948278563652023/video/1",
+            "id_str": "2005948146791145472",
+            "indices": [
+              73,
+              96
+            ],
+            "media_key": "7_2005948146791145472",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2005948146791145472/pu/img/jqG1wFQUaqvp7Pjd.jpg",
+            "type": "video",
+            "url": "https://t.co/a08MvMSngL",
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": null
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": null,
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 720,
+              "focus_rects": []
+            },
+            "allow_download_status": null,
+            "video_info": {
+              "duration_millis": 178934,
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/pl/p0TYdcHIdgT4ryN3.m3u8?tag=19&v=217",
+                  "bitrate": null
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/320x568/Qfo85KvOV9xx6MJu.mp4?tag=19",
+                  "bitrate": 632000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/480x852/QQAVkcFsePyK8cz9.mp4?tag=19",
+                  "bitrate": 950000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/720x1280/pVO-iCx3B_hNjT99.mp4?tag=19",
+                  "bitrate": 2176000
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_2005948146791145472"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/a08MvMSngL",
+            "expanded_url": "https://x.com/AyamDamiee/status/2005948278563652023/video/1",
+            "id_str": "2005948146791145472",
+            "indices": [
+              73,
+              96
+            ],
+            "media_key": "7_2005948146791145472",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/2005948146791145472/pu/img/jqG1wFQUaqvp7Pjd.jpg",
+            "type": "video",
+            "url": "https://t.co/a08MvMSngL",
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": null
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": null,
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1280,
+              "width": 720,
+              "focus_rects": []
+            },
+            "allow_download_status": null,
+            "video_info": {
+              "duration_millis": 178934,
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/pl/p0TYdcHIdgT4ryN3.m3u8?tag=19&v=217",
+                  "bitrate": null
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/320x568/Qfo85KvOV9xx6MJu.mp4?tag=19",
+                  "bitrate": 632000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/480x852/QQAVkcFsePyK8cz9.mp4?tag=19",
+                  "bitrate": 950000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/2005948146791145472/pu/vid/avc1/720x1280/pVO-iCx3B_hNjT99.mp4?tag=19",
+                  "bitrate": 2176000
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "7_2005948146791145472"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "replies": null,
+    "display_text_range": [
+      0,
+      165
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/USitPJ09cN",
+          "expanded_url": "https://x.com/KayodeElvis/status/2006177625274831242/photo/1",
+          "id_str": "2006177618513530880",
+          "indices": [
+            166,
+            189
+          ],
+          "media_key": "3_2006177618513530880",
+          "media_url_https": "https://pbs.twimg.com/media/G9df6jPWkAAmCtR.jpg",
+          "type": "photo",
+          "url": "https://t.co/USitPJ09cN",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 706,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 498,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 432,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 25,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_2006177618513530880"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            27,
+            39
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/USitPJ09cN",
+          "expanded_url": "https://x.com/KayodeElvis/status/2006177625274831242/photo/1",
+          "id_str": "2006177618513530880",
+          "indices": [
+            166,
+            189
+          ],
+          "media_key": "3_2006177618513530880",
+          "media_url_https": "https://pbs.twimg.com/media/G9df6jPWkAAmCtR.jpg",
+          "type": "photo",
+          "url": "https://t.co/USitPJ09cN",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 706,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 498,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 432,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 25,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_2006177618513530880"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "1869370514",
+      "url": "https://x.com/Oghenemandy",
+      "name": "chinelo Amanda Nwoye",
+      "username": "Oghenemandy",
+      "created_at": "Sun Sep 15 22:06:43 +0000 2013",
+      "description": "2015 ELOY Awards OAP of the year. 2015 NBMA Best Prog. Pres. (Human Interest) Compere. V/O Artist. Creative Content Writer. Woman. Human.",
+      "favourites_count": 639,
+      "followers_count": 1011,
+      "followings_count": 369,
+      "listed_count": 2,
+      "media_count": 20,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1262128168179204097/y6_yitjM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869370514/1474578861",
+      "statuses_count": 1328,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": true,
+      "location": "Lagos, Nigeria",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1991524900889333903",
+    "text": "Dear @glovoapp_ng @glovo please if my order is cancelled, how do I get my refund please?",
+    "reply_count": 1,
+    "view_count": 90,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/Oghenemandy/status/1991524900889333903",
+    "created_at": "Thu Nov 20 15:11:51 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1991524900889333903",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      88
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            5,
+            17
+          ]
+        },
+        {
+          "id_str": "836251972873379840",
+          "name": "Glovo",
+          "screen_name": "glovo",
+          "indices": [
+            18,
+            24
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1227516763",
+      "url": "https://x.com/didi_stories_",
+      "name": "디디 이야기 💜⁷",
+      "username": "didi_stories_",
+      "created_at": "Thu Feb 28 13:03:51 +0000 2013",
+      "description": "I'm either making, watching or talking about a film.\n\ninthisbangtanseoyendansh*t4l\n\nCreator: #MomentsSeries \n\nScreenwriter|Director|Producer\n\nFounder @nollydata",
+      "favourites_count": 11344,
+      "followers_count": 4373,
+      "followings_count": 570,
+      "listed_count": 13,
+      "media_count": 1410,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1840042377408372737/k1avHDRT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227516763/1751409671",
+      "statuses_count": 53347,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nollydata.com",
+              "expanded_url": "https://www.nollydata.com/",
+              "url": "https://t.co/vPoaQU4CzA",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Lagos, Nigeria",
+      "pinned_tweet_ids": [
+        "1711668513226514714"
+      ],
+      "professional": null
+    },
+    "id": "1988581842015183091",
+    "text": "Between @accessbank_help and @glovoapp_ng they have really held my money hostage. Never again. I'm so pissed and irritated",
+    "reply_count": 1,
+    "view_count": 87,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/didi_stories_/status/1988581842015183091",
+    "created_at": "Wed Nov 12 12:17:11 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1988581842015183091",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      122
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "2164455380",
+          "name": "Access Bank Help",
+          "screen_name": "accessbank_help",
+          "indices": [
+            8,
+            24
+          ]
+        },
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            29,
+            41
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1105398413896617984",
+      "url": "https://x.com/jo__miloju",
+      "name": "Abigail",
+      "username": "jo__miloju",
+      "created_at": "Tue Mar 12 09:21:33 +0000 2019",
+      "description": "Economist👩🏼‍🎓 •UI/UX Designer👩‍💻 #womenintech My portfolio ⬇️ OPEN TO GIGS • ICFCWJ❤️",
+      "favourites_count": 36017,
+      "followers_count": 1847,
+      "followings_count": 666,
+      "listed_count": 0,
+      "media_count": 216,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1847392249719713792/bLqZ6Fr1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105398413896617984/1764020074",
+      "statuses_count": 15616,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "behance.net/abigailolusoga_",
+              "expanded_url": "https://www.behance.net/abigailolusoga_",
+              "url": "https://t.co/cWOXkjcLBH",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "can_dm": true,
+      "can_media_tag": true,
+      "location": "Abuja, Nigeria",
+      "pinned_tweet_ids": [
+        "1995400267429536097"
+      ],
+      "professional": {
+        "professional_type": "Creator",
+        "category": [
+          {
+            "id": 1020,
+            "name": "Product Designer"
+          }
+        ]
+      }
+    },
+    "id": "1986166471458750640",
+    "text": "Decided to use Glovo after I saw this tweet and I regret😭😭😭. Anyways @glovoapp_ng you people should refund my money. My order was cancelled and and hasn’t been refunded",
+    "reply_count": 1,
+    "view_count": 212,
+    "retweet_count": 0,
+    "like_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/jo__miloju/status/1986166471458750640",
+    "created_at": "Wed Nov 05 20:19:22 +0000 2025",
+    "media": [],
+    "is_quote_tweet": true,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1986166471458750640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": "1984717740507078766",
+    "quote": {
+      "user": {
+        "id": "2828211915",
+        "url": "https://x.com/proefosa",
+        "name": "King Efosa MD",
+        "username": "proefosa",
+        "created_at": "Mon Oct 13 20:21:20 +0000 2014",
+        "description": "A working brain || Unintentional(ly) man || Available for consultation.",
+        "favourites_count": 24611,
+        "followers_count": 7137,
+        "followings_count": 3903,
+        "listed_count": 4,
+        "media_count": 922,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010461844381573120/Lwb6Vkwp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828211915/1706303516",
+        "statuses_count": 18924,
+        "verified": false,
+        "is_blue_verified": true,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/efosa-iyawe…",
+                "expanded_url": "https://www.linkedin.com/in/efosa-iyawe-md",
+                "url": "https://t.co/KYZbZM8D6G",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "can_dm": true,
+        "can_media_tag": false,
+        "location": "Making Money ",
+        "pinned_tweet_ids": [
+          "1901721692642115667"
+        ],
+        "professional": null
+      },
+      "id": "1984717740507078766",
+      "text": "I have always preferred Glovo to Chowdeck. Here are 3 reasons why.\n\n1) Glovo’s UX is better. Glovo’s interface is intuitive and context-aware. When I open the app, I am immediately greeted by large, distinct icons that guide me to specific verticals like Food, Groceries, Delivery or Pharmacy. I don’t have cognitive overload, because when I am in the \"Food\" section, I only see food options. I think this makes it more accessible for both new and older users. Conversely, Chowdeck's layout often feels overwhelming. I often describe it as \"everything, everywhere, all at once\".\n\n2) Glovo has no service fee. I am subscribed to both Glovo Prime and Chowpass, and although some people may argue that prices on Glovo are a bit higher, I like that when I select a group of food items, I know exactly how much I am paying in the end. The final checkout price matches the initial selection, as there is no mandatory, surprise fee added at the end. On Chowdeck, you have a selection only to be bumped with a service fee in the end. \n\n3) Glovo is smarter. When I open the app, it knows my location and automatically changes my delivery to that location. On the other hand, i have to manually edit my location on Chowdeck. I once made a mistake of delivering a Chowdeck package to the location I was previously at simply because they didn’t read it. Also Glovo can begin to tell the places I often order from and then make suggestions based on that data immediately I open the app so I don’t have to click too much. \n\nThey are two great platforms by the way but I find myself ordering more from Glovo when I am severely hungry and don’t want to stress my brain while ordering. 😅",
+      "reply_count": 66,
+      "view_count": 166328,
+      "retweet_count": 169,
+      "like_count": 1066,
+      "quote_count": 81,
+      "bookmark_count": 346,
+      "url": "https://x.com/proefosa/status/1984717740507078766",
+      "created_at": "Sat Nov 01 20:22:38 +0000 2025",
+      "media": [],
+      "is_quote_tweet": true,
+      "is_retweet": false,
+      "lang": "en",
+      "conversation_id": "1984717740507078766",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null,
+      "quoted_status_id": "1984666959297069187",
+      "quote": null,
+      "replies": null,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": []
+      }
+    },
+    "replies": null,
+    "display_text_range": [
+      0,
+      168
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            69,
+            81
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "734840838",
+      "url": "https://x.com/godhunting33",
+      "name": "Leto II ⋆𐙚 ̊۶•ৎ",
+      "username": "godhunting33",
+      "created_at": "Fri Aug 03 13:04:15 +0000 2012",
+      "description": "just a very chill, pretty girl 🪽",
+      "favourites_count": 181854,
+      "followers_count": 1227,
+      "followings_count": 990,
+      "listed_count": 2,
+      "media_count": 12564,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2013597853331972096/8kvQsCcI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/734840838/1767599788",
+      "statuses_count": 270478,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Vatican City",
+      "pinned_tweet_ids": [
+        "2006649090721902666"
+      ],
+      "professional": null
+    },
+    "id": "1985349841367478278",
+    "text": "So let me understand something glovo prime does not cover free delivery is the restaurant is far from you\n\nWe're both on the island but I must pay 1,500 with this subscription... You people are mad. After December I'm removing My card\n\n@glovoapp_ng DO BETTER",
+    "reply_count": 0,
+    "view_count": 38,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/godhunting33/status/1985349841367478278",
+    "created_at": "Mon Nov 03 14:14:22 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1985349841367478278",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      258
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            236,
+            248
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1265288074512273410",
+      "url": "https://x.com/Nems_Ani",
+      "name": "𝖧𝖾𝗋 𝖱𝗈𝗒𝖺𝗅 𝖡𝖺𝗋𝖻𝗂𝖾𝗇𝖾𝗌𝗌 🎀",
+      "username": "Nems_Ani",
+      "created_at": "Tue May 26 14:28:58 +0000 2020",
+      "description": "Future High-ranking Diplomat |Technical Writer| Wicked Igbo Woman 🎀 5ft8 Tall Glass of Very Chubby Barbieness 💕| Shop Moissanite Diamonds💎 IG:@NemsLuxury",
+      "favourites_count": 1647,
+      "followers_count": 417,
+      "followings_count": 305,
+      "listed_count": 1,
+      "media_count": 1112,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1981068368863019009/4Qibp3FM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265288074512273410/1706395145",
+      "statuses_count": 8957,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Abuja",
+      "pinned_tweet_ids": [
+        "1944297059458462008"
+      ],
+      "professional": null
+    },
+    "id": "1978554490832789598",
+    "text": "One of the things I hate about Nigeria is avoidable problems.\nWhy do I have wait 5 days for @glovoapp_ng to refund me for unavailable items when they could just indicate it’s unavailability on the app? Minor automation no? 🤥\nThis is 2025 forghusakes! 🥲",
+    "reply_count": 2,
+    "view_count": 329,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 1,
+    "bookmark_count": 0,
+    "url": "https://x.com/Nems_Ani/status/1978554490832789598",
+    "created_at": "Wed Oct 15 20:12:05 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1978554490832789598",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            92,
+            104
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1311032371089682440",
+      "url": "https://x.com/pellybeyz",
+      "name": "pellydope",
+      "username": "pellybeyz",
+      "created_at": "Tue Sep 29 19:58:20 +0000 2020",
+      "description": "Bold and beautiful",
+      "favourites_count": 21455,
+      "followers_count": 124,
+      "followings_count": 119,
+      "listed_count": 0,
+      "media_count": 60,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1350005641566412801/YhHW5HaU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311032371089682440/1759425070",
+      "statuses_count": 2300,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": false,
+      "can_media_tag": true,
+      "location": "",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1973777311939097074",
+    "text": "Glovo please refund my money or send my item!!! @glovoapp_ng I ordered an item from spar supermarket which displayed a price, I went ahead to process the order,the order was eventually assigned to a rider, only for me to check and saw that the price has changed to a way higher👇🏽",
+    "reply_count": 12,
+    "view_count": 153,
+    "retweet_count": 1,
+    "like_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/pellybeyz/status/1973777311939097074",
+    "created_at": "Thu Oct 02 15:49:16 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1973777311939097074",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            48,
+            60
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "38399258",
+      "url": "https://x.com/MrSipoga",
+      "name": "Philips Ndahi King",
+      "username": "MrSipoga",
+      "created_at": "Thu May 07 09:04:41 +0000 2009",
+      "description": "Christian +Husband + Dad + Politician + Businessman doing GREAT THINGS @ SIPOGA & ASSOCIATES: Real Estate Investment + Property Development + Facility Managemnt",
+      "favourites_count": 11256,
+      "followers_count": 2297,
+      "followings_count": 3237,
+      "listed_count": 7,
+      "media_count": 4793,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1802699580343009280/jG1XZffJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38399258/1740228618",
+      "statuses_count": 41544,
+      "verified": false,
+      "is_blue_verified": true,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Abuja, Nigeria",
+      "pinned_tweet_ids": [
+        "1964382753220415751"
+      ],
+      "professional": {
+        "professional_type": "Business",
+        "category": [
+          {
+            "id": 477,
+            "name": "Professional Services"
+          }
+        ]
+      }
+    },
+    "id": "1971523737955799224",
+    "text": "Hey @glovoapp_ng \n\nWho’s going to refund my money between you and Mama T restaurant?\n\nWhy did you take money for items not in stock?",
+    "reply_count": 0,
+    "view_count": 46,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/MrSipoga/status/1971523737955799224",
+    "created_at": "Fri Sep 26 10:34:22 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1971523737955799224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      132
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            4,
+            16
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "886243814284939264",
+      "url": "https://x.com/prudy_miles",
+      "name": "🥀",
+      "username": "prudy_miles",
+      "created_at": "Sat Jul 15 15:19:25 +0000 2017",
+      "description": "💯💯.... cool kid on the block.",
+      "favourites_count": 5291,
+      "followers_count": 858,
+      "followings_count": 1048,
+      "listed_count": 0,
+      "media_count": 75,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1320173992460931078/fR0jH0_-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/886243814284939264/1571859131",
+      "statuses_count": 4750,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": false,
+      "can_media_tag": true,
+      "location": "abuja, Nigeria",
+      "pinned_tweet_ids": [
+        "1096794158008815616"
+      ],
+      "professional": null
+    },
+    "id": "1970895137736995167",
+    "text": "Hi @glovoapp_ng Do you have a customer care I can reach? Y’all took my money and didn’t give me what I ordered.",
+    "reply_count": 0,
+    "view_count": 25,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/prudy_miles/status/1970895137736995167",
+    "created_at": "Wed Sep 24 16:56:32 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1970895137736995167",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      111
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "3587008034",
+      "url": "https://x.com/Samorite99",
+      "name": "Aina samuel",
+      "username": "Samorite99",
+      "created_at": "Wed Sep 16 21:52:21 +0000 2015",
+      "description": "GAYCUJ45",
+      "favourites_count": 505,
+      "followers_count": 49,
+      "followings_count": 316,
+      "listed_count": 0,
+      "media_count": 5,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1202656202741731330/8jFaROtI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3587008034/1575570562",
+      "statuses_count": 98,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": false,
+      "can_media_tag": false,
+      "location": "surulere",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1970237086352515431",
+    "text": "I order from @glovoapp_ng then they charged me 4k and charged extra 1k and I didn't get any food what the actually fuck. Please refund my money and pay for the emotional damage your shitty customer service attendant did to me big fool @damina_ https://t.co/YV7W67viyW",
+    "reply_count": 1,
+    "view_count": 375,
+    "retweet_count": 3,
+    "like_count": 3,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/Samorite99/status/1970237086352515431",
+    "created_at": "Mon Sep 22 21:21:41 +0000 2025",
+    "media": [
+      {
+        "media_url": "https://pbs.twimg.com/media/G1ewLn4WcAAFXpC.jpg",
+        "type": "photo"
+      },
+      {
+        "media_url": "https://pbs.twimg.com/media/G1ewLrHWQAAhsGM.jpg",
+        "type": "photo"
+      }
+    ],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1970237086352515431",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      243
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/YV7W67viyW",
+          "expanded_url": "https://x.com/Samorite99/status/1970237086352515431/photo/1",
+          "id_str": "1970237075728265216",
+          "indices": [
+            244,
+            267
+          ],
+          "media_key": "3_1970237075728265216",
+          "media_url_https": "https://pbs.twimg.com/media/G1ewLn4WcAAFXpC.jpg",
+          "type": "photo",
+          "url": "https://t.co/YV7W67viyW",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 604,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 396,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 330,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1970237075728265216"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/YV7W67viyW",
+          "expanded_url": "https://x.com/Samorite99/status/1970237086352515431/photo/1",
+          "id_str": "1970237076596473856",
+          "indices": [
+            244,
+            267
+          ],
+          "media_key": "3_1970237076596473856",
+          "media_url_https": "https://pbs.twimg.com/media/G1ewLrHWQAAhsGM.jpg",
+          "type": "photo",
+          "url": "https://t.co/YV7W67viyW",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 93,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1970237076596473856"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            13,
+            25
+          ]
+        },
+        {
+          "id_str": "290630177",
+          "name": "Damina че(LOVE)чек",
+          "screen_name": "damina_",
+          "indices": [
+            235,
+            243
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/YV7W67viyW",
+          "expanded_url": "https://x.com/Samorite99/status/1970237086352515431/photo/1",
+          "id_str": "1970237075728265216",
+          "indices": [
+            244,
+            267
+          ],
+          "media_key": "3_1970237075728265216",
+          "media_url_https": "https://pbs.twimg.com/media/G1ewLn4WcAAFXpC.jpg",
+          "type": "photo",
+          "url": "https://t.co/YV7W67viyW",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 604,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 396,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 330,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1970237075728265216"
+            }
+          }
+        },
+        {
+          "display_url": "pic.x.com/YV7W67viyW",
+          "expanded_url": "https://x.com/Samorite99/status/1970237086352515431/photo/1",
+          "id_str": "1970237076596473856",
+          "indices": [
+            244,
+            267
+          ],
+          "media_key": "3_1970237076596473856",
+          "media_url_https": "https://pbs.twimg.com/media/G1ewLrHWQAAhsGM.jpg",
+          "type": "photo",
+          "url": "https://t.co/YV7W67viyW",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 945,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 945,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 93,
+                "w": 945,
+                "h": 529
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 945
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1077
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 1890
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 945,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": null,
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1970237076596473856"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "1714305558415613952",
+      "url": "https://x.com/TuruchiP",
+      "name": "Turuchi Precious",
+      "username": "TuruchiP",
+      "created_at": "Tue Oct 17 15:41:50 +0000 2023",
+      "description": "COCO ❤️🇳🇬 I sell beautiful female wears at affordable prices.",
+      "favourites_count": 17553,
+      "followers_count": 1147,
+      "followings_count": 702,
+      "listed_count": 1,
+      "media_count": 670,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1858571754433609730/qzlRLl98_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1714305558415613952/1736656750",
+      "statuses_count": 10372,
+      "verified": false,
+      "is_blue_verified": true,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": false,
+      "can_media_tag": true,
+      "location": "Lagos, Nigeria",
+      "pinned_tweet_ids": [
+        "1903542388284358816"
+      ],
+      "professional": null
+    },
+    "id": "1963834794988462148",
+    "text": "I’m making a video today about the debit stuff. @glovoapp_ng  you guys must refund me because it’s my hard earned money 😭😭😭",
+    "reply_count": 2,
+    "view_count": 52,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/TuruchiP/status/1963834794988462148",
+    "created_at": "Fri Sep 05 05:21:16 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1963834794988462148",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            48,
+            60
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "893854578986373120",
+      "url": "https://x.com/jstsimplemuf",
+      "name": "SSEMAGANYI WILLIAM",
+      "username": "jstsimplemuf",
+      "created_at": "Sat Aug 05 15:21:53 +0000 2017",
+      "description": "Systems and Networks Admin/ Programming & Web Dev/IT Solutions",
+      "favourites_count": 1450,
+      "followers_count": 101,
+      "followings_count": 127,
+      "listed_count": 0,
+      "media_count": 13,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1995435125341872128/sjFVLVKb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/893854578986373120/1764583782",
+      "statuses_count": 803,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "github.com/williamdewizard",
+              "expanded_url": "http://github.com/williamdewizard",
+              "url": "https://t.co/PQvjjHj1IQ",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "can_dm": true,
+      "can_media_tag": true,
+      "location": "Namugongo",
+      "pinned_tweet_ids": [],
+      "professional": {
+        "professional_type": "Business",
+        "category": [
+          {
+            "id": 723,
+            "name": "Computer Company"
+          }
+        ]
+      }
+    },
+    "id": "1950143728200327399",
+    "text": "Guys don't use your credit cards or mobile money on glovo. @glovo @glovoapp_ng  @Glovo_ES Those guys took my money from my card, canceled the order promised a refund and its coming to 2 weeks without the money back. Everytym you talk to them they keep telling you to wait\n#justice",
+    "reply_count": 1,
+    "view_count": 110,
+    "retweet_count": 0,
+    "like_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/jstsimplemuf/status/1950143728200327399",
+    "created_at": "Tue Jul 29 10:37:51 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1950143728200327399",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            272,
+            280
+          ],
+          "text": "justice"
+        }
+      ],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "836251972873379840",
+          "name": "Glovo",
+          "screen_name": "glovo",
+          "indices": [
+            59,
+            65
+          ]
+        },
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            66,
+            78
+          ]
+        },
+        {
+          "id_str": "2744744882",
+          "name": "Glovo",
+          "screen_name": "Glovo_ES",
+          "indices": [
+            80,
+            89
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1940779688",
+      "url": "https://x.com/queenfakush",
+      "name": "Fakush 🤎🧸",
+      "username": "queenfakush",
+      "created_at": "Sun Oct 06 12:06:40 +0000 2013",
+      "description": "Medic.👩🏼‍⚕️",
+      "favourites_count": 4017,
+      "followers_count": 1369,
+      "followings_count": 117,
+      "listed_count": 4,
+      "media_count": 249,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2011555876751151104/j-uFKi6Z_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940779688/1589407038",
+      "statuses_count": 33364,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "",
+      "pinned_tweet_ids": [
+        "903927566964228096"
+      ],
+      "professional": null
+    },
+    "id": "1948499452387357119",
+    "text": "Glovo app thieves @glovoapp_ng when wi you guys refund me my money!!!??",
+    "reply_count": 0,
+    "view_count": 68,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/queenfakush/status/1948499452387357119",
+    "created_at": "Thu Jul 24 21:44:05 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1948499452387357119",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      71
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            18,
+            30
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "2967964312",
+      "url": "https://x.com/Blackgold_Grace",
+      "name": "✨✨✨✨✨",
+      "username": "Blackgold_Grace",
+      "created_at": "Thu Jan 08 15:05:52 +0000 2015",
+      "description": "|Lawyer|Model|Baker|Feminist",
+      "favourites_count": 193531,
+      "followers_count": 1553,
+      "followings_count": 720,
+      "listed_count": 1,
+      "media_count": 522,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1970232005238329344/tXm_ZpyG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2967964312/1741533025",
+      "statuses_count": 31368,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Abuja, Nigeria",
+      "pinned_tweet_ids": [],
+      "professional": {
+        "professional_type": "Creator",
+        "category": [
+          {
+            "id": 938,
+            "name": "Fashion Model"
+          }
+        ]
+      }
+    },
+    "id": "1941085054366830690",
+    "text": "Glovo takes forever to issue refunds.\nChowdeck on the other hand✨🤍\n\nI hate Glovo so much. @glovoapp_ng @glovo refund me my money",
+    "reply_count": 1,
+    "view_count": 185,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/Blackgold_Grace/status/1941085054366830690",
+    "created_at": "Fri Jul 04 10:41:55 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1941085054366830690",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      128
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            90,
+            102
+          ]
+        },
+        {
+          "id_str": "836251972873379840",
+          "name": "Glovo",
+          "screen_name": "glovo",
+          "indices": [
+            103,
+            109
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1142137956016304128",
+      "url": "https://x.com/thisuser_s_name",
+      "name": "Angry!!! Pan!!! Feminist!!! Oopsies",
+      "username": "thisuser_s_name",
+      "created_at": "Fri Jun 21 18:31:23 +0000 2019",
+      "description": "I write and proofread|\nANGRY, RAGING FEMINIST|\nMisandrist|\n🏳️‍🌈Pansexual|\nFUJOSHI|\nBL fanatic|\nGunATP fan♡| Atdpark's fan",
+      "favourites_count": 133439,
+      "followers_count": 13344,
+      "followings_count": 3918,
+      "listed_count": 15,
+      "media_count": 866,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2010124870533709824/Nxq0DjAx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1142137956016304128/1764001292",
+      "statuses_count": 85115,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Lagos, Nigeria",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1933129950212612442",
+    "text": "That's how @glovoapp_ng took my money... Almost a week now",
+    "reply_count": 0,
+    "view_count": 63,
+    "retweet_count": 0,
+    "like_count": 1,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/thisuser_s_name/status/1933129950212612442",
+    "created_at": "Thu Jun 12 11:51:10 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1933129950212612442",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      58
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            11,
+            23
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "325108177",
+      "url": "https://x.com/sashabone",
+      "name": "✨rothschild ✨",
+      "username": "sashabone",
+      "created_at": "Mon Jun 27 19:06:51 +0000 2011",
+      "description": "In God I trust • Billionaire Queen • All I need in this life of sin is me and the soft life..",
+      "favourites_count": 969,
+      "followers_count": 897,
+      "followings_count": 582,
+      "listed_count": 15,
+      "media_count": 440,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1327259878537240576/efbDYiID_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/325108177/1609598504",
+      "statuses_count": 116806,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "abeg.app/profile/sashab…",
+              "expanded_url": "https://abeg.app/profile/sashabone",
+              "url": "https://t.co/d3DJ6aWe1g",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "Lekki, Nigeria",
+      "pinned_tweet_ids": [
+        "1609441114741669888"
+      ],
+      "professional": null
+    },
+    "id": "1928778710372458985",
+    "text": "Till date, I have not gotten a refund nor the food itself. The CEO,COO and Head of Customer Service of @glovo and @glovoapp_ng have prolly seen my tweet before",
+    "reply_count": 0,
+    "view_count": 44,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/sashabone/status/1928778710372458985",
+    "created_at": "Sat May 31 11:40:54 +0000 2025",
+    "media": [],
+    "is_quote_tweet": true,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1928778710372458985",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": "1848469967542620206",
+    "quote": {
+      "user": {
+        "id": "325108177",
+        "url": "https://x.com/sashabone",
+        "name": "✨rothschild ✨",
+        "username": "sashabone",
+        "created_at": "Mon Jun 27 19:06:51 +0000 2011",
+        "description": "In God I trust • Billionaire Queen • All I need in this life of sin is me and the soft life..",
+        "favourites_count": 969,
+        "followers_count": 897,
+        "followings_count": 582,
+        "listed_count": 15,
+        "media_count": 440,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327259878537240576/efbDYiID_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/325108177/1609598504",
+        "statuses_count": 116806,
+        "verified": false,
+        "is_blue_verified": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abeg.app/profile/sashab…",
+                "expanded_url": "https://abeg.app/profile/sashabone",
+                "url": "https://t.co/d3DJ6aWe1g",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "can_dm": true,
+        "can_media_tag": false,
+        "location": "Lekki, Nigeria",
+        "pinned_tweet_ids": [
+          "1609441114741669888"
+        ],
+        "professional": null
+      },
+      "id": "1848469967542620206",
+      "text": "Doenst anyone work at @glovoapp_ng or @glovo on Twitter? Paystack has since confirmed my payment yet my order was never delivered and it’s 4 days now…",
+      "reply_count": 0,
+      "view_count": 134,
+      "retweet_count": 0,
+      "like_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "url": "https://x.com/sashabone/status/1848469967542620206",
+      "created_at": "Mon Oct 21 21:02:37 +0000 2024",
+      "media": [],
+      "is_quote_tweet": true,
+      "is_retweet": false,
+      "lang": "en",
+      "conversation_id": "1848469967542620206",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null,
+      "quoted_status_id": "1846966841996144807",
+      "quote": null,
+      "replies": null,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1686312433894277120",
+            "name": "Glovo Nigeria",
+            "screen_name": "glovoapp_ng",
+            "indices": [
+              22,
+              34
+            ]
+          },
+          {
+            "id_str": "836251972873379840",
+            "name": "Glovo",
+            "screen_name": "glovo",
+            "indices": [
+              38,
+              44
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": []
+      }
+    },
+    "replies": null,
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "836251972873379840",
+          "name": "Glovo",
+          "screen_name": "glovo",
+          "indices": [
+            103,
+            109
+          ]
+        },
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            114,
+            126
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1876414444168966144",
+      "url": "https://x.com/Big_Ace01",
+      "name": "•Big Ace•",
+      "username": "Big_Ace01",
+      "created_at": "Mon Jan 06 23:44:10 +0000 2025",
+      "description": "•MY SPACE•                                                                    Business Opportunist",
+      "favourites_count": 592,
+      "followers_count": 130,
+      "followings_count": 179,
+      "listed_count": 0,
+      "media_count": 13,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1876414817411416064/0grzhVMG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876414444168966144/1741021497",
+      "statuses_count": 376,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": false,
+      "can_media_tag": true,
+      "location": "",
+      "pinned_tweet_ids": [],
+      "professional": {
+        "professional_type": "Creator",
+        "category": [
+          {
+            "id": 15,
+            "name": "Entertainment & Recreation"
+          }
+        ]
+      }
+    },
+    "id": "1927771450242425229",
+    "text": "If my order comes in such package I go collect refund asap 😤 @glovo @glovoapp_ng https://t.co/kcZCykczZk",
+    "reply_count": 1,
+    "view_count": 129,
+    "retweet_count": 0,
+    "like_count": 2,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/Big_Ace01/status/1927771450242425229",
+    "created_at": "Wed May 28 16:58:24 +0000 2025",
+    "media": [
+      {
+        "media_url": "https://pbs.twimg.com/media/GsDR5z2WoAAUUap.jpg",
+        "type": "photo"
+      }
+    ],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1927771450242425229",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/kcZCykczZk",
+          "expanded_url": "https://x.com/Big_Ace01/status/1927771450242425229/photo/1",
+          "id_str": "1927771431615504384",
+          "indices": [
+            81,
+            104
+          ],
+          "media_key": "3_1927771431615504384",
+          "media_url_https": "https://pbs.twimg.com/media/GsDR5z2WoAAUUap.jpg",
+          "type": "photo",
+          "url": "https://t.co/kcZCykczZk",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 30,
+                  "y": 716,
+                  "w": 118,
+                  "h": 118
+                },
+                {
+                  "x": 558,
+                  "y": 1604,
+                  "w": 132,
+                  "h": 132
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 17,
+                  "y": 419,
+                  "w": 69,
+                  "h": 69
+                },
+                {
+                  "x": 326,
+                  "y": 939,
+                  "w": 77,
+                  "h": 77
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 9,
+                  "y": 237,
+                  "w": 39,
+                  "h": 39
+                },
+                {
+                  "x": 185,
+                  "y": 532,
+                  "w": 43,
+                  "h": 43
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 30,
+                  "y": 716,
+                  "w": 118,
+                  "h": 118
+                },
+                {
+                  "x": 558,
+                  "y": 1604,
+                  "w": 132,
+                  "h": 132
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 1639,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 1639,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 206,
+                "w": 1639,
+                "h": 918
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 1639
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 1868
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1024,
+                "h": 2048
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1927771431615504384"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "836251972873379840",
+          "name": "Glovo",
+          "screen_name": "glovo",
+          "indices": [
+            61,
+            67
+          ]
+        },
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            68,
+            80
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/kcZCykczZk",
+          "expanded_url": "https://x.com/Big_Ace01/status/1927771450242425229/photo/1",
+          "id_str": "1927771431615504384",
+          "indices": [
+            81,
+            104
+          ],
+          "media_key": "3_1927771431615504384",
+          "media_url_https": "https://pbs.twimg.com/media/GsDR5z2WoAAUUap.jpg",
+          "type": "photo",
+          "url": "https://t.co/kcZCykczZk",
+          "additional_media_info": null,
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 30,
+                  "y": 716,
+                  "w": 118,
+                  "h": 118
+                },
+                {
+                  "x": 558,
+                  "y": 1604,
+                  "w": 132,
+                  "h": 132
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 17,
+                  "y": 419,
+                  "w": 69,
+                  "h": 69
+                },
+                {
+                  "x": 326,
+                  "y": 939,
+                  "w": 77,
+                  "h": 77
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 9,
+                  "y": 237,
+                  "w": 39,
+                  "h": 39
+                },
+                {
+                  "x": 185,
+                  "y": 532,
+                  "w": 43,
+                  "h": 43
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 30,
+                  "y": 716,
+                  "w": 118,
+                  "h": 118
+                },
+                {
+                  "x": 558,
+                  "y": 1604,
+                  "w": 132,
+                  "h": 132
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "w": 1639,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2048,
+            "width": 1639,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 206,
+                "w": 1639,
+                "h": 918
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 1639
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 1868
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1024,
+                "h": 2048
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1639,
+                "h": 2048
+              }
+            ]
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "video_info": null,
+          "media_results": {
+            "result": {
+              "media_key": "3_1927771431615504384"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "id": "567214812",
+      "url": "https://x.com/crispyrubino",
+      "name": "IPNTS",
+      "username": "crispyrubino",
+      "created_at": "Mon Apr 30 10:54:52 +0000 2012",
+      "description": "Husband | Energy Analyst | Baby Boy | #COYS",
+      "favourites_count": 15112,
+      "followers_count": 1809,
+      "followings_count": 1312,
+      "listed_count": 1,
+      "media_count": 374,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1999402261294800896/2cPJ6vBE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/567214812/1545303256",
+      "statuses_count": 49406,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": false,
+      "location": "",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1914678815269216632",
+    "text": "Na because I done give my life to Christ @glovoapp_ng go think say them fit hold my money.\nMake I no get my refund in 24 hours.",
+    "reply_count": 1,
+    "view_count": 86,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/crispyrubino/status/1914678815269216632",
+    "created_at": "Tue Apr 22 13:52:57 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1914678815269216632",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            41,
+            53
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  },
+  {
+    "user": {
+      "id": "1271465786461298689",
+      "url": "https://x.com/Val_eis",
+      "name": "Val_eis",
+      "username": "Val_eis",
+      "created_at": "Fri Jun 12 15:34:54 +0000 2020",
+      "description": "A tired writer✨",
+      "favourites_count": 1789,
+      "followers_count": 48,
+      "followings_count": 129,
+      "listed_count": 1,
+      "media_count": 12,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1949809185530458112/_7J5ELCj_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271465786461298689/1741086752",
+      "statuses_count": 267,
+      "verified": false,
+      "is_blue_verified": false,
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": null
+      },
+      "can_dm": true,
+      "can_media_tag": true,
+      "location": "Lagos, Nigeria",
+      "pinned_tweet_ids": [],
+      "professional": null
+    },
+    "id": "1909277757898432950",
+    "text": "Talmbout “we are so sorry, we will send you refund” when it’s too late to buy something else. The refund will now be sent back to @glovoapp_ng and not my account🤦🏽‍♀️. Na, @burgerkingnga you don fucked up. You starved me for three hours and then gave me the wrong meal???😒😒😒",
+    "reply_count": 0,
+    "view_count": 33,
+    "retweet_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "bookmark_count": 0,
+    "url": "https://x.com/Val_eis/status/1909277757898432950",
+    "created_at": "Mon Apr 07 16:11:04 +0000 2025",
+    "media": [],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1909277757898432950",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "replies": null,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id_str": "1686312433894277120",
+          "name": "Glovo Nigeria",
+          "screen_name": "glovoapp_ng",
+          "indices": [
+            130,
+            142
+          ]
+        },
+        {
+          "id_str": "1381021580562677762",
+          "name": "Burger King Nigeria",
+          "screen_name": "burgerkingnga",
+          "indices": [
+            172,
+            186
+          ]
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": []
+    }
+  }
+]
